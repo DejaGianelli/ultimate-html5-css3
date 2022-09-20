@@ -7,3 +7,7 @@
 **CSS Validator**
 
 [here](https://jigsaw.w3.org/css-validator/)
+
+**HTML Entities Reference Chart**
+
+[here](https://tools.w3cub.com/html-entities)
