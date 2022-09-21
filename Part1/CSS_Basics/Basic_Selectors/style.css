@@ -1,0 +1,29 @@
+body {
+    margin: 10px;
+}
+
+#products {
+    
+}
+
+.product {
+
+}
+
+/* Fragile code. Select by attr are not common */
+
+a[target="_blank"] {
+    color: orange;
+}
+
+a[https*="google"] {
+    color: orange;
+}
+
+a[https^="https"] {
+    color: orange;
+}
+
+a[https^="https"][https$=".com"] {
+    color: orange;
+}
