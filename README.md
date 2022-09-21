@@ -11,3 +11,7 @@
 **HTML Entities Reference Chart**
 
 [here](https://tools.w3cub.com/html-entities)
+
+**Can I use**
+
+At [Can I Use](https://caniuse.com/) Website you can found out how different browsers support HTML and CSS features.
