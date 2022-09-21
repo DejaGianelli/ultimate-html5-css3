@@ -1,0 +1,23 @@
+*, 
+*::before, 
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+}
+
+.box::before {
+    content: 'Hello';
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    /* border: 10px solid orange;
+    padding: 20px;
+    margin: 50px;
+    box-sizing: content-box; default */
+}
