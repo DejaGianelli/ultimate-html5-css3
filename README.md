@@ -22,3 +22,6 @@ At [Can I Use](https://caniuse.com/) Website you can found out how different bro
 
 **CSS Gradient Generator**
 [here](https://cssgradient.io/)
+
+**CSS Tricks**
+[here](https://css-tricks.com/the-shapes-of-css/)
