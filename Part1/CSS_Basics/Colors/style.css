@@ -1,0 +1,13 @@
+body {
+    margin: 10px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #fcba03;
+    /* background-color: hsl(44, 17%, 69%); */
+    /* background-color: hsl(44, 17%, 69%, 0.6); */
+    /* background-color: rgb(227, 18, 53); */
+    /* background-color: rgba(227, 18, 53, 0.5); */
+}
