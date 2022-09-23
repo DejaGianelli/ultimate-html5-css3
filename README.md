@@ -25,3 +25,8 @@ At [Can I Use](https://caniuse.com/) Website you can found out how different bro
 
 **CSS Tricks**
 [here](https://css-tricks.com/the-shapes-of-css/)
+
+**Where to find Fonts**
+- [FontSquirrel](https://fontsquirrel.com/)
+- [Fonts](https://fonts.com/)
+- [MyFonts](https://myfonts.com/)
