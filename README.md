@@ -33,3 +33,7 @@ At [Can I Use](https://caniuse.com/) Website you can found out how different bro
 - [GoogleFonts](https://fonts.google.com)
 - [FontDeck](https://fontdeck.com)
 - [AdobeFonts](https://fonts.adobe.com)
+
+**Type Scale**
+
+[here](https://type-scale.com/)
