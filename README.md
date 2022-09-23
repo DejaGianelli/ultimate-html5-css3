@@ -30,3 +30,6 @@ At [Can I Use](https://caniuse.com/) Website you can found out how different bro
 - [FontSquirrel](https://fontsquirrel.com/)
 - [Fonts](https://fonts.com/)
 - [MyFonts](https://myfonts.com/)
+- [GoogleFonts](https://fonts.google.com)
+- [FontDeck](https://fontdeck.com)
+- [AdobeFonts](https://fonts.adobe.com)
