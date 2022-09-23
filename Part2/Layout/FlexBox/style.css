@@ -1,0 +1,36 @@
+body {
+    margin: 10px;
+}
+
+.container {
+    border: 3px solid lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    /* flex-wrap: wrap;
+    align-content: center;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse; */
+}
+
+.box {
+    width: 5rem;
+    height: 5rem;
+    background: gold;
+    margin: 1rem;
+    flex-basis: 15rem;
+    flex-shrink: 1;
+    /* flex-grow: 1; */
+}
+
+.box-one {
+    flex-shrink: 2;
+    /*
+    flex-grow: 2;
+    flex-basis: 5rem;
+    align-self: flex-start; 
+    */
+}
