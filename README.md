@@ -37,3 +37,7 @@ At [Can I Use](https://caniuse.com/) Website you can found out how different bro
 **Type Scale**
 
 [here](https://type-scale.com/)
+
+**SVG Sprite Generator**
+
+[here](https://svgsprit.es/)
