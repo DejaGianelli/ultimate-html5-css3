@@ -41,3 +41,7 @@ At [Can I Use](https://caniuse.com/) Website you can found out how different bro
 **SVG Sprite Generator**
 
 [here](https://svgsprit.es/)
+
+**Clip Path Generator**
+
+[here](https://bennettfeely.com/clippy/)
