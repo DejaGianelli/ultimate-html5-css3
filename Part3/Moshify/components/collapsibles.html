@@ -11,14 +11,22 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="../css/normalize.css" />
     <link rel="stylesheet" href="../css/style.css" />
   </head>
   <body>
-    <span class="icon-container">
-      <svg class="icon icon--primary">
-        <use xlink:href="../images/sprite.svg#wordpress"></use>
-      </svg>
-    </span>
+    <div class="collapsible collapsible--expanded">
+      <header class="collapsible__header">
+        <h2 class="collapsible__heading">Item</h2>
+        <svg class="icon icon--whtie collapsible__chevron">
+          <use xlink:href="../images/sprite.svg#chevron"></use>
+        </svg>
+      </header>
+      <div class="collapsible__content">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
+        praesentium ipsam, est dolor quasi provident nulla distinctio incidunt
+        magnam error.
+      </div>
+    </div>
+    <script src="../js/main.js"></script>
   </body>
 </html>
